@@ -35,13 +35,6 @@ Adruino Projects from (Basics-Advanced) Pro.
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
 
 <center><p>
-  Follow for more: 
- <a href="https://www.instagram.com/dhayaldhruv271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dhruv_Dhayal" height="30" width="40" /></a>
-
-<a href="https://www.facebook.com/profile.php?id=100093404899326" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-74-189794.png?f=webp&w=256" alt="Dhruv_Dhayal" height="30" width="40" /></a>
-
-<a href="https://twitter.com/DhayalDhruv" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709450663~exp=1709451263~hmac=92a36ca26d0652a186358c0390208e12630bfcddd7e805ac6f39f446f9ca9d8f" alt="Dhruv_Dhayal" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv_Dhayal-4515" height="30" width="40" /></a>
-  
+ <u> Follow for more: </u>
+ <a href="https://www.instagram.com/dhayaldhruv271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dhruv_Dhayal" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=100093404899326" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-74-189794.png?f=webp&w=256" alt="Dhruv_Dhayal" height="30" width="40" /></a><a href="https://twitter.com/DhayalDhruv" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709450663~exp=1709451263~hmac=92a36ca26d0652a186358c0390208e12630bfcddd7e805ac6f39f446f9ca9d8f" alt="Dhruv_Dhayal" height="30" width="40" /></a><a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv_Dhayal-4515" height="30" width="40" /></a>
 </p></center>
