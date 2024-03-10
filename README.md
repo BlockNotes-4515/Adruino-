@@ -6,7 +6,7 @@
 # Adruino-
 Adruino Projects from (Basics-Advanced) Pro.
 
-<center><img src="radar.jpeg" alt=" " height="50%" width="60%"></center>
+<center><img src="radar.jpeg" alt=" " height="50%" width="60%" align="center" border="2"></center>
 
 <h1><b><u>RC Obstacle Detection System + Voice Recognizatons Modules!</b></h1>
 <h2>Steps for begineers</h2>
@@ -33,3 +33,9 @@ Adruino Projects from (Basics-Advanced) Pro.
 </p></center></h3>
 
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
+
+<center><p>
+  Follow for more: 
+  Instagram: https://www.instagram.com/dhayaldhruv271/
+  Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/
+</p></center>
