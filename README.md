@@ -6,28 +6,30 @@
 # Adruino-
 Adruino Projects from (Basics-Advanced) Pro.
 
-<center><img src="radar.jpeg" alt=" "></center>
+<center><img src="radar.jpeg" alt=" " height="50%" width="60%"></center>
 
 <h1><b><u>RC Obstacle Detection System + Voice Recognizatons Modules!</b></h1>
 <h2>Steps for begineers</h2>
 
 <center><i><p>
-  1. Install Adruino IDE.
-  2. Connect <u>(Laptop->Adruino)</u> By DTC-(Data- Transfer - Cable).
-  3. Open the Adruino IDE.
-  4. Select Bard (Tools->Board) My Board is : UNO 🛸
-  5. Select Ports (Tools-> Port).
-  6. Open and Create Skectch (the Write the Code) in IDE.
-  7. Verify & Compile (Ctrl+R) and then Skecth (verify/Compile).
-  8. Upload then (Ctrl+U) (Sketch->Upload).
-  9. Monitor Serial Output (Optional).
+  <ul>
+ <li>1. Install Adruino IDE.</li> 
+  <li>2. Connect <u>(Laptop->Adruino)</u> By DTC-(Data- Transfer - Cable).</li>
+  <li>3. Open the Adruino IDE.</li>
+  <li>4. Select Bard (Tools->Board) My Board is : UNO 🛸</li>
+  <li>5. Select Ports (Tools-> Port).</li>
+  <li>6. Open and Create Skectch (the Write the Code) in IDE.</li>
+  <li>7. Verify & Compile (Ctrl+R) and then Skecth (verify/Compile).</li>
+  <li>8. Upload then (Ctrl+U) (Sketch->Upload).</li>
+  <li>9. Monitor Serial Output (Optional).</li>
+  </ul>
 </p></i></center>
 
-<h2><center><p>
-  NOTE: IF ANY ERROR (REMEMBER)!
-        --> (i). Check the Connections.
-        --> (ii). Board Selections like: UNO.
-        --> (iii). Port Settings.
-</p></center></h2>
+<h3><center><p>
+  NOTE: IF ANY ERROR (REMEMBER)!<ul>
+  <li>--> (i). Check the Connections.</li>
+  <li>--> (ii). Board Selections like: UNO.</li>      
+   <li>--> (iii). Port Settings.</li>     
+</p></center></h3>
 
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
