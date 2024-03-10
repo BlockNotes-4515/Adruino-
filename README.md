@@ -6,7 +6,8 @@
 # Adruino-
 Adruino Projects from (Basics-Advanced) Pro.
 
-<center><img src="radar.jpeg" alt=" " height="50%" width="60%" align="center" border="2"></center>
+<!--<center><img src="radar.jpeg" alt=" " height="50%" width="60%" align="center" border="2"></center>-->
+<center><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" border="2"></center>
 
 <h1><b><u>RC Obstacle Detection System + Voice Recognizatons Modules!</b></h1>
 <h2>Steps for begineers</h2>
