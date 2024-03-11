@@ -152,10 +152,15 @@ turn and then moves forward with the same loop.
 
 
 <hr>
-<center><video autoplay muted loop src="adruino.mp4" height="50%" width="50%"></video></center>
+<center><img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhow-to-make-intelligent-obstacle-avoiding-robot-arduino-v0-6gmrp05ovdga1.jpg%3Fwidth%3D960%26format%3Dpjpg%26auto%3Dwebp%26s%3D96a034b24848240fd3bddd15cd78711cdefb48d4" height="50%" width="50%"></center>
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
-
-
+  <br><br>
+<center>
+  <p><i> Live - Link:https://drive.google.com/file/d/1WRn4E9pzs4am8OEEquejK64aezOb8qmQ/view?usp=sharing
+         Project-Link: https://drive.google.com/file/d/1E5YAV2lSrqtxsZIVGegoI3TLbigUvWTc/view?usp=sharing
+         Canva-Link: https://www.canva.com/design/DAF_OSmpnOw/Ihi-0KM1KNQhWlLbJK3aAQ/edit?utm_content=DAF_OSmpnOw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+         Public-Link: https://www.canva.com/design/DAF_OSmpnOw/55Wi6RAAqsNxgYSt0yr9bA/view?utm_content=DAF_OSmpnOw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel</i></p>
+</center>
 
   
 <hr>
