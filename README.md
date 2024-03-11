@@ -149,9 +149,15 @@ robot detects the obstacle in its path and takes a backward step and then takes 
 turn and then moves forward with the same loop.
   </p>
 </center>
+
+
 <hr>
-<center><img src="#"></center>
+<center><video autoplay muted loop src="adruino.mp4" height="50%" width="50%"></video></center>
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
+
+
+
+  
 <hr>
 <center><p>
  <u> Follow for more: </u>
