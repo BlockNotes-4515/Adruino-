@@ -94,7 +94,7 @@ code in the arduino.
 </p></center>
 
 <hr>
-<center><img src="radar.png"></center>
+<center><img src="adruino2.jpeg" height="50%" width="50%" border="2" alt="#"></center>
 <center><p>
   <b>L293 motor driver:</b> We now have the conditions set up for the robot car but it needs 
 to be executed/implemented on the hardware. The hardware used is the DC motor.
@@ -107,7 +107,34 @@ move the robot car forward, both the motors are turned on. For backward step,
 both motors need to run in opposite direction. To turn the robot car to avoid 
 obstacle, one of the motor is reversed for a while, keeping the other motor forward.</p></center>
 
+<hr>
+<center><p>
+  <ul>
+    Connections: 
+<li>Motor Driver connection: </li>
+<li>Vin → 9v Battery (+)ve</li>
+<li>GND → 9v Battery (-)ve</li>
+<li>M1 → Left Motor connection</li>
+<li>M2 → Right Motor connection</li>
+<li>IN1 and IN2 → Arduino 4 and 5 (If motor runs in wrong direction, connection is 
+swapped)</li>
+<li>IN3 and IN4 → Arduino 6 and 7 (If motor runs in wrong direction, connection is 
+swapped)</li>
+  </ul>
+</p></center>
 
+<hr>
+<center>
+  <ul>
+    Ultrasonic connection:
+<li></li>Gnd: Arduino GND</li>
+<li></li>Echo: Arduino A2</li>
+<li></li>Trig: Arduino A1</li>
+<li></li>Vcc: Arduino 5V</li>
+  </ul>
+
+  </ul>
+</center>
 
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
 
