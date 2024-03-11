@@ -34,6 +34,48 @@ Adruino Projects from (Basics-Advanced) Pro.
   <li>--> (ii). Board Selections like: UNO.</li>      
    <li>--> (iii). Port Settings.</li>     
 </p></center></h3>
+<center>
+  <h1>OBSTACLE AVOIDING ROBOT</h1>
+</center>
+<hr>
+<p><b>Introduction:</b>An obstacle avoiding robot is an autonomous robot which is able to 
+avoid any obstacle it face when it moves. Simply, when it met an obstacle while it 
+moving forward, automatically stop moving forward and makes a step back then it 
+takes a little turn and moves forward with the same loop. This obstacle avoiding 
+robot we are demonstrating here is very helpful and this is a simple demonstration 
+of obstacle avoiding process for sophisticated technologies and machines. It is the 
+base of many large projects such as Automatic cars, robots used in Manufacturing 
+factories, even in robots used in spacecraft’s or interplanetary robotic missions like 
+Mars rover</p>
+
+<hr>
+<center><p><b>Components used:</b> In this robotic project we are using following components:
+  <ul>
+<li> Arduino UNO</li>
+<li> 2 Wheel Drive robotic chassis</li>
+<li> Two DC BO motors</li>
+<li> L293 motor driver</li>
+<li> HC-SR04 Ultrasonic sensor</li>
+<li> Switch</li>
+<li> 9v Batteries and connector</li>
+<li> Jumper wires</li>
+<li> Caster</li>
+<li> Nut-Bolts, Spacer</li>
+<li> Other supporting components and tools </li></p></center>
+
+<hr>
+<center><p>
+  <b>Basic principle:</b> The robot uses Ultrasonic sensor to detect the obstacle and motor 
+driver is used to drive the motor according to the ultrasonic signal as per code 
+written in the Arduino.
+  <br><br>
+<b>Ultrasonic sensor:</b> The ultrasonic sensor has a signal generator and a receiver. The 
+signal generator generates an ultrasonic wave and transmits in the forward 
+direction. The transmitted wave strikes any obstacle in its path and a huge part of it 
+gets reflected. The receiver receives the reflected wave.
+</p></center>
+
+
 
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
 
