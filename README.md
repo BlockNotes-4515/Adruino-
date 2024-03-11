@@ -152,7 +152,7 @@ turn and then moves forward with the same loop.
 
 
 <hr>
-<center><img src="teslas.jpg" height="50%" width="50%"></center>
+<center><img src="teslas.jpg" height="80%" width="80%"></center>
 <u><b> Developed and Created by @DhruvDhayal from DDCo. head and I Like 🍔☕ foodie nature wants more in my life 🤑❤
   <br><br>
 <center>
