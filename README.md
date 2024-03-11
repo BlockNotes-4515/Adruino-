@@ -35,6 +35,8 @@ Adruino Projects from (Basics-Advanced) Pro.
    <li>--> (iii). Port Settings.</li>     
 </p></center></h3>
 <center>
+  <center><img src="radar.jpeg" width="50%" height="50%" border="2" alt="#"></center>
+  <br><br>
   <h1>OBSTACLE AVOIDING ROBOT</h1>
 </center>
 <hr>
@@ -110,7 +112,7 @@ obstacle, one of the motor is reversed for a while, keeping the other motor forw
 <hr>
 <center><p>
   <ul>
-    Connections: 
+   <b> Connections: </b>
 <li>Motor Driver connection: </li>
 <li>Vin → 9v Battery (+)ve</li>
 <li>GND → 9v Battery (-)ve</li>
@@ -126,7 +128,7 @@ swapped)</li>
 <hr>
 <center>
   <ul>
-    Ultrasonic connection:
+   <b> Ultrasonic connection:</b>
 <li></li>Gnd: Arduino GND</li>
 <li></li>Echo: Arduino A2</li>
 <li></li>Trig: Arduino A1</li>
