@@ -38,7 +38,7 @@ Adruino Projects from (Basics-Advanced) Pro.
   <h1>OBSTACLE AVOIDING ROBOT</h1>
 </center>
 <hr>
-<p><b>Introduction:</b>An obstacle avoiding robot is an autonomous robot which is able to 
+<p><b>Introduction:</b>  An obstacle avoiding robot is an autonomous robot which is able to 
 avoid any obstacle it face when it moves. Simply, when it met an obstacle while it 
 moving forward, automatically stop moving forward and makes a step back then it 
 takes a little turn and moves forward with the same loop. This obstacle avoiding 
@@ -72,8 +72,40 @@ written in the Arduino.
 <b>Ultrasonic sensor:</b> The ultrasonic sensor has a signal generator and a receiver. The 
 signal generator generates an ultrasonic wave and transmits in the forward 
 direction. The transmitted wave strikes any obstacle in its path and a huge part of it 
-gets reflected. The receiver receives the reflected wave.
+gets reflected. The receiver receives the reflected wave.The obtained values from the ultrasonic sensor need to be calibrated in order to get 
+a meaningful data (distance). The distance of the object is calculated on the basis of 
+the time taken by the wave in the process of transmission, reflection and collection.
 </p></center>
+
+<hr>
+<center><p>
+  <b>Arduino:</b> Arduino is an open-source electronics platform based on easy-to-use 
+hardware and software. Arduino boards are able to read inputs (Like-light on a 
+sensor, a signal of a button, or a signal from sensor etc) and turn it into an output 
+(Like- activating a motor, turning on an LED, publishing something online etc). We 
+can tell our board what to do by sending a set of instructions to the microcontroller 
+on the board. To do so we use the Arduino programming language and the Arduino 
+Software (IDE).
+In this project, to avoid the obstacle in the path, a condition is put in the system 
+which says: if the distance between the robot and the object gets below a certain 
+level, stop the robot and take a backward motion and then turn the robot into other 
+direction and continue the loop. This logic is applied to the system by writing the 
+code in the arduino.
+</p></center>
+
+<hr>
+<center><img src="radar.png"></center>
+<center><p>
+  <b>L293 motor driver:</b> We now have the conditions set up for the robot car but it needs 
+to be executed/implemented on the hardware. The hardware used is the DC motor.
+To drive these DC BO Motors, we need motor driver. In this project we are using 
+L293 motor driver. Motor driver is used to send the commands to motors according 
+to signal received from Arduino.
+  <br><br>
+<b>BO Motors:</b> Two motors are used in this process: left motor and right motor. To 
+move the robot car forward, both the motors are turned on. For backward step, 
+both motors need to run in opposite direction. To turn the robot car to avoid 
+obstacle, one of the motor is reversed for a while, keeping the other motor forward.</p></center>
 
 
 
