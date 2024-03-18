@@ -35,7 +35,7 @@ Adruino Projects from (Basics-Advanced) Pro.
    <li>--> (iii). Port Settings.</li>     
 </p></center></h3>
 <center>
-  <center><img src="radar.jpeg" width="50%" height="50%" border="2" alt="#"></center>
+  <center><img src="Dhruv Dhayal sooftware.jpg" width="50%" height="50%" border="2" alt="#"></center>
   <br><br>
   <h1>OBSTACLE AVOIDING ROBOT</h1>
 </center>
