@@ -164,7 +164,7 @@ turn and then moves forward with the same loop.
 </center>
 <hr>
 <center><h1>CYBER GEEKS</h1></center>
-<center><img src="img1.jpeg" alt=" " width="50%" height="50%"></center>
+<center><img src="img1.jpeg" alt=" " width="50%" height="50%" align="center"></center>
   
 <hr>
 <center><p>
