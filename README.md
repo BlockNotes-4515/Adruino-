@@ -164,11 +164,21 @@ turn and then moves forward with the same loop.
 </center>
 <hr>
 <center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
-<div style="overflow: hidden;">
-        <img src="img1.jpeg" alt="" style="float: left; width: 50%; height: 50%;">
-        <img src="champions.jpeg" alt="" style="float: right; width: 50%; height: 50%;">
+  <style>
+        .image-container {
+            display: flex;
+        }
+
+        .image-container img {
+            width: 50%;
+            height: auto;
+            object-fit: cover;
+        }
+    </style>
+ <div class="image-container">
+        <img src="img1.jpeg" alt="" style="order: 1;">
+        <img src="champions.jpeg" alt="" style="order: 2;">
     </div>
-  
 <hr>
 <center><p>
  <u> Follow for more: </u>
