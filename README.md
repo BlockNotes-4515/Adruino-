@@ -165,10 +165,7 @@ turn and then moves forward with the same loop.
   
 <hr>
 <center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
-<div style="display: flex;">
-    <img src="img1.jpeg" alt="Image 1" style="width: 50%; height: auto;">
-    <img src="champions.jpeg" alt="Image 2" style="width: 50%; height: auto;">
-</div>
+![Image 1](img1.jpeg) ![Image 2](champions.jpeg)
 
  
 <hr>
