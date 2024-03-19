@@ -177,22 +177,22 @@ turn and then moves forward with the same loop.
 </div>
 <hr>
 <center><h1><b><i><u> PHOTO GALLERY </u></i></b></h1></center>
-<div style="overflow: hidden; background: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
+<div style="overflow: hidden; background: url('images/hexagon.jpg');">
     <img src="img1.jpeg" alt="Image 1" style="float: left; width: 35%;">
     <img src="champions1.jpeg" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
 </div>
 <br>
-<div style="overflow: hidden; background: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
+<div style="overflow: hidden; background: url('images/hexagon.jpg');">
     <img src="images/sheep3.jpeg" alt="Image 3" style="float: left; width: 35%;">
     <img src="images/sheep7.jpeg" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
 </div>
 <br>
-<div style="overflow: hidden; background: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
+<div style="overflow: hidden; background: url('images/hexagon.jpg');">
     <img src="images/sheep2.jpeg" alt="Image 5" style="float: left; width: 35%;">
     <img src="images/sheep8.jpeg" alt="Image 6" style="float: right; width: 35%; margin-left: 5px;">
 </div>
 <br>
-<div style="overflow: hidden; background: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
+<div style="overflow: hidden; background: url('images/hexagon.jpg');">
     <img src="images/sheep4.jpeg" alt="Image 7" style="float: left; width: 35%;">
     <img src="images/sheep5.jpeg" alt="Image 8" style="float: right; width: 35%; margin-left: 5px;">
 </div>
