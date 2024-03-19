@@ -162,24 +162,16 @@ turn and then moves forward with the same loop.
          Public-Link: https://www.canva.com/design/DAF_OSmpnOw/55Wi6RAAqsNxgYSt0yr9bA/view?utm_content=DAF_OSmpnOw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel</i></p>
          Documentaion: https://drive.google.com/file/d/1bH0qh7V0K7hLXVGRfbUGHXnPMyGBclov/view?usp=sharing 🤑😎
 </center>
+  
 <hr>
 <center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
-  <style>
-        .image_deg {
-           float: right;
-           width: 40%;
-        .pos_cen {
-          position:absolute;
-          width: 70%;
-          left: 15%;
-          top:20%;
-          background-color: skyblue;
-          padding: 30px;
-        }
-    </style>
- <div class="pos_cen">
-        <img class="image_deg" src="img1.jpeg" alt=" ">
-    </div>
+ | ![Image 1](img1.jpeg) | ![Image 2](champions.jpeg) |
+|:----------------------:|:---------------------------:|
+|     *Image 1 Team *    |       *Image 2 CYBER GEEKS*       |
+
+
+
+  
 <hr>
 <center><p>
  <u> Follow for more: </u>
