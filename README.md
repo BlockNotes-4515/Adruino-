@@ -186,7 +186,17 @@ turn and then moves forward with the same loop.
     <img src="images/sheep3.jpeg" alt="Image 3" style="float: left; width: 35%;">
     <img src="images/sheep7.jpeg" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
 </div>
-
+<br>
+<div style="overflow: hidden; background-image: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
+    <img src="images/sheep2.jpeg" alt="Image 5" style="float: left; width: 35%;">
+    <img src="images/sheep8.jpeg" alt="Image 6" style="float: right; width: 35%; margin-left: 5px;">
+</div>
+<br>
+<div style="overflow: hidden; background-image: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
+    <img src="images/sheep4.jpeg" alt="Image 7" style="float: left; width: 35%;">
+    <img src="images/sheep5.jpeg" alt="Image 8" style="float: right; width: 35%; margin-left: 5px;">
+</div>
+<br>
 
 
  
