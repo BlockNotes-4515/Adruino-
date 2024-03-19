@@ -166,12 +166,9 @@ turn and then moves forward with the same loop.
 <hr>
 <center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
 <pre>
-  
 | ![Image 1](img1.jpeg)  | ![Image 2](champions.jpeg)  |
-
 |:----------------------:|:---------------------------:|
-
-<h2>|     *WE ARE *    |    * CYBER GEEKS *    |</h2>
+<h2>|     *WE ARE *      |    * CYBER GEEKS *      |</h2>
 </pre>
 
 
