@@ -179,8 +179,8 @@ turn and then moves forward with the same loop.
 <center><h1><b><i><u> PHOTO GALLERY </u></i></b></h1></center>
 <pre>
 <div style="overflow: hidden; background-image: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
-    <img src="img1.jpeg" alt="Image 1" style="float: left; width: 45%;">              
-    <img src="champions.jpeg" alt="Image 2" style="float: right; width: 33%;">
+    <img src="img1.jpeg" alt="Image 1" style="float: left; width: 35%;">              
+    <img src="champions.jpeg" alt="Image 2" style="float: right; width: 35%;">
 </div>
 </pre>
 
