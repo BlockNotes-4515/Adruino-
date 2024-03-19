@@ -163,7 +163,7 @@ turn and then moves forward with the same loop.
          Documentaion: https://drive.google.com/file/d/1bH0qh7V0K7hLXVGRfbUGHXnPMyGBclov/view?usp=sharing 🤑😎
 </center>
 <hr>
-<center><h1>CYBER GEEKS</h1></center>
+<center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
 <center><img src="img1.jpeg" alt=" " width="50%" height="50%" align="center"></center>
   
 <hr>
