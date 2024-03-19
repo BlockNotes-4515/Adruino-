@@ -165,10 +165,17 @@ turn and then moves forward with the same loop.
   
 <hr>
 <center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
-<div style="overflow: hidden;">
-    <img src="img1.jpeg" alt="Image 1" style="float: left; width: 45%;">
-    <img src="champions.jpeg" alt="Image 2" style="float: right; width: 32%; height: 50%;">
+<div style="overflow: hidden; background-color: #f0f0f0;">
+    <div style="float: left; width: 45%;">
+        <img src="img1.jpeg" alt="Image 1" style="width: 100%;">
+        <p>"CYBER GEEKS" at TECHNO SAPIENS</p>
+    </div>
+    <div style="float: right; width: 45%;">
+        <img src="champions.jpeg" alt="Image 2" style="width: 100%;">
+        <p>Getting 1st Position in Project Exhibition & Demonsteration Competition.</p>
+    </div>
 </div>
+
 
 
  
