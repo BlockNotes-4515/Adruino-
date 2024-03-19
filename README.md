@@ -168,8 +168,10 @@ turn and then moves forward with the same loop.
 <pre>
   
 | ![Image 1](img1.jpeg)  | ![Image 2](champions.jpeg)  |
+
 |:----------------------:|:---------------------------:|
-|     *Image 1 Team *    |    *Image 2 CYBER GEEKS*    |
+
+<h2>|     *WE ARE *    |    * CYBER GEEKS *    |</h2>
 </pre>
 
 
