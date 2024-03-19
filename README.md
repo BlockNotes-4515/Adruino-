@@ -178,7 +178,7 @@ turn and then moves forward with the same loop.
         }
     </style>
  <div class="pos_cen">
-        <img class="image_deg" src="img1.jpeg" alt="" style="order: 1;">
+        <img class="image_deg" src="img1.jpeg" alt=" ">
     </div>
 <hr>
 <center><p>
