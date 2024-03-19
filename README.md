@@ -165,10 +165,11 @@ turn and then moves forward with the same loop.
   
 <hr>
 <center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
+
 <pre>
-| ![Image 1](img1.jpeg) | ![Image 2](champions.jpeg) |
+| ![Image 1](img1.jpeg)  | ![Image 2](champions.jpeg)  |
 |:----------------------:|:---------------------------:|
-|     * We are *    |       * CYBER GEEKS *       |
+|     *Image 1 Title*    |       *Image 2 Title*       |
 </pre>
 
 
