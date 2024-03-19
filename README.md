@@ -180,8 +180,8 @@ turn and then moves forward with the same loop.
 <div style="overflow: hidden; background-image: url('https://e0.pxfuel.com/wallpapers/658/707/desktop-wallpaper-top-5-inspiring-windows-7-themes-for-hackers-background.jpg');">
     <img src="img1.jpeg" alt="Image 1" style="float: left; width: 35%;">
     <img src="champions1.jpeg" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;"><br>
-    <img src="sheep3.jpeg" alt="Image 3" style:"width: 35%;">
-    <img src="sheep7.jpeg" alt="Image 4" style:"width: 35%;">
+    <img src="images/sheep3.jpeg" alt="Image 3" style:"width: 35%;">
+    <img src="images/sheep7.jpeg" alt="Image 4" style:"width: 35%;">
 </div>
 
 
