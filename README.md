@@ -164,7 +164,7 @@ turn and then moves forward with the same loop.
 </center>
 <hr>
 <center><h1>CYBER GEEKS (IOT Based Obstacle Detection System ROBO-CAR) Ver.1</h1></center>
-<center><img src="img1.jpeg" alt=" " width="50%" height="50%" align="center"></center>
+<center><img src="img1.jpeg" alt=" " width="50%" height="50%" align="left"><img src="champions.jpeg" alt=" " width="50%" height="50%" align="left"></center>
   
 <hr>
 <center><p>
