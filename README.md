@@ -211,5 +211,6 @@ turn and then moves forward with the same loop.
 <center><img src="winners.jpeg" alt="Congratulations to all Winners!" border="2" height="100%" width="100%"></center>
 <div align="center">
   <img src="https://camo.githubusercontent.com/2e3a321d070ca6eba6b552ae4a80da73054a7c631205e4fe3b19e0a5b7cf5847/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966" alt="Centered Image">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 </div>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
