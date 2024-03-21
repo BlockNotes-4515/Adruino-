@@ -209,6 +209,7 @@ turn and then moves forward with the same loop.
 <hr>
 <center><h1>TechnoSapiens Competition Winners</h1></center>
 <center><img src="winners.jpeg" alt="Congratulations to all Winners!" border="2" height="100%" width="100%"></center>
-<img align="center" src="https://camo.githubusercontent.com/2e3a321d070ca6eba6b552ae4a80da73054a7c631205e4fe3b19e0a5b7cf5847/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966">
-<img src="https://camo.githubusercontent.com/a682e207ce9939518c8617c6340b1bf8b1769b30a9f1b45d27d67fd64af1d0f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667">
+<div align="center">
+  <img src="https://camo.githubusercontent.com/2e3a321d070ca6eba6b552ae4a80da73054a7c631205e4fe3b19e0a5b7cf5847/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966" alt="Centered Image">
+</div>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
