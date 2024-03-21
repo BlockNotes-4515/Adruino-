@@ -160,7 +160,8 @@ turn and then moves forward with the same loop.
          Project-Link: https://drive.google.com/file/d/1E5YAV2lSrqtxsZIVGegoI3TLbigUvWTc/view?usp=sharing<br><br>
          Canva-Link: https://www.canva.com/design/DAF_OSmpnOw/Ihi-0KM1KNQhWlLbJK3aAQ/edit?utm_content=DAF_OSmpnOw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br><br>
          Public-Link: https://www.canva.com/design/DAF_OSmpnOw/55Wi6RAAqsNxgYSt0yr9bA/view?utm_content=DAF_OSmpnOw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel</i></p>
-         Documentaion: https://drive.google.com/file/d/1bH0qh7V0K7hLXVGRfbUGHXnPMyGBclov/view?usp=sharing 🤑😎
+         Documentaion: https://drive.google.com/file/d/1bH0qh7V0K7hLXVGRfbUGHXnPMyGBclov/view?usp=sharing 🤑
+         Techno-Sapiens Winners: https://drive.google.com/file/d/13DHvzNAmuAgjnw75iKoDYkeHX-uSoiHj/view?usp=sharing
 </center>
   
 <hr>
