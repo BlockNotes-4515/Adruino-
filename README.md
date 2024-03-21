@@ -208,4 +208,4 @@ turn and then moves forward with the same loop.
 </p></center>
 <hr>
 <center><h1>TechnoSapiens Competition Winners</h1></center>
-<center><img src="#"></center>
+<center><img src="winners.jpeg" alt="Congratulations to all Winners!" border="2" height="100%" width="100%"></center>
