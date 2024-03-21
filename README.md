@@ -209,3 +209,4 @@ turn and then moves forward with the same loop.
 <hr>
 <center><h1>TechnoSapiens Competition Winners</h1></center>
 <center><img src="winners.jpeg" alt="Congratulations to all Winners!" border="2" height="100%" width="100%"></center>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
