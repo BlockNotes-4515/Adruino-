@@ -162,7 +162,7 @@ turn and then moves forward with the same loop.
          Public-Link: https://www.canva.com/design/DAF_OSmpnOw/55Wi6RAAqsNxgYSt0yr9bA/view?utm_content=DAF_OSmpnOw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel</i></p>
          Documentaion: https://drive.google.com/file/d/1bH0qh7V0K7hLXVGRfbUGHXnPMyGBclov/view?usp=sharing 🤑<br><br>
          Project Reports (Search-Gate)/(Google Scholars): https://docs.google.com/document/d/1StLLD12zOxFbyoz13unVac0lp7VgWlaU/edit? 
-        usp=sharing&ouid=117969705994841390256&rtpof=true&sd=true ✔🌐❤🤑😍
+        usp=sharing&ouid=117969705994841390256&rtpof=true&sd=true ✔🌐❤🤑😍<br><br>
          Techno-Sapiens Winners: https://drive.google.com/file/d/13DHvzNAmuAgjnw75iKoDYkeHX-uSoiHj/view?usp=sharing
 </center>
   
