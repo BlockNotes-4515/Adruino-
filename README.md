@@ -35,7 +35,12 @@ Adruino Projects from (Basics-Advanced) Pro.
    <li>--> (iii). Port Settings.</li>     
 </p></center></h3>
 <center>
-  <center>                                                   <img src="Dhruv Dhayal sooftware.jpg" width="50%" height="50%" border="2" alt="#"></center>
+  <center>  
+    <p align="center">
+  <a href="https://blocknotes-4515.github.io/Adruino-/">
+    <img src="Dhruv Dhayal sooftware.jpg" height="60%" width="60%" border="2" alt="This is My Logo!">
+  </a>
+</p>
   <br><br>
   <h1>OBSTACLE AVOIDING ROBOT</h1>
 </center>
@@ -96,7 +101,11 @@ code in the arduino.
 </p></center>
 
 <hr>
-<center><img src="adruino2.jpeg" height="50%" width="50%" border="2" alt="#"></center>
+ <p align="center">
+  <a href="https://blocknotes-4515.github.io/Adruino-/">
+    <img src="adruino2.jpeg" height="60%" width="60%" border="2" alt="This is My Logo!">
+  </a>
+</p>
 <center><p>
   <b>L293 motor driver:</b> We now have the conditions set up for the robot car but it needs 
 to be executed/implemented on the hardware. The hardware used is the DC motor.
